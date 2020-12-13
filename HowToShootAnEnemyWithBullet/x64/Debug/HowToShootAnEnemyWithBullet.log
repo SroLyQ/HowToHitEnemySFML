@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\user\Desktop\CE\FirstYear\ProgramFundamental\Game\Video\HowToShootAnEnemyWithBullet\HowToShootAnEnemyWithBullet\main.cpp(22,55): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+  HowToShootAnEnemyWithBullet.vcxproj -> C:\Users\user\Desktop\CE\FirstYear\ProgramFundamental\Game\Video\HowToShootAnEnemyWithBullet\x64\Debug\HowToShootAnEnemyWithBullet.exe
